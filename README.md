@@ -3,6 +3,9 @@
 A full-stack, real-time inventory management platform built to track
 stock, generate invoices, and deliver actionable business insights.
 
+![Inventory Management System](https://github.com/user-attachments/assets/2df32839-9e97-44de-9d18-3d0e5cfc7dce)
+
+
 ## 🚀 Features
 
 ### 📦 Product & Stock Management
